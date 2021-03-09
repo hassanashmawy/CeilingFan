@@ -39,8 +39,6 @@ public class CeilingFan {
 		return currentDirection;
 	}
 
-	
-	
 	public Speed getCurrentSpeed() {
 		return currentSpeed;
 	}
