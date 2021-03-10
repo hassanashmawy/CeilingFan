@@ -1,8 +1,8 @@
 # CeilingFan
 
-There are 2 packages under CeilingFanApp/src:
+This is an Eclipse project. There are 2 packages under CeilingFanApp/src:
 
-[hsn.fan] and [hsn.fan.noenum]
+_hsn.fan_ and _hsn.fan.noenum_
 
 Each one contain a solution for the Simple Ceiling Fan requested
 
@@ -10,6 +10,6 @@ The difference is that package hsn.fan uses enum while package hsn.fan.noenum do
 
 Each package contains two classes and another for Unit Test
 
-FanController has two methods pullSpeedCord() and pullDirectionCord() that control CeilingFan Speed and Direction
+_FanController_ has two methods _pullSpeedCord()_ and _pullDirectionCord()_ that control _CeilingFan_ Speed and Direction
 
-FanControllerTest contains 6 methods for test cases 
+_FanControllerTest_ contains 6 methods for test cases 
